@@ -17,7 +17,7 @@ Core Deliverables
 
 // ~ Types
 // -> undefined, null*, boolean, number, string
-
+document.querySelector ("#today").addEventListener
 // ~ Objects
 // -> definition, bracket/dot notation, stringify
 
